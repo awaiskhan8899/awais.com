@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awais Softwares</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Awais Softwares</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Section -->
+    <main>
+        <section class="intro">
+            <div class="container">
+                <h2>Welcome to Awais Softwares</h2>
+                <p>Your go-to place for innovative software solutions.</p>
+                <a href="#" class="btn">Learn More</a>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section class="services">
+            <div class="container">
+                <h2>Our Services</h2>
+                <div class="service-box">
+                    <h3>Custom Software Development</h3>
+                    <p>We create tailored software solutions to meet your business needs.</p>
+                </div>
+                <div class="service-box">
+                    <h3>Web Development</h3>
+                    <p>Professional websites that are user-friendly and responsive.</p>
+                </div>
+                <div class="service-box">
+                    <h3>Mobile App Development</h3>
+                    <p>Building innovative mobile applications for all platforms.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Awais Softwares | All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>
